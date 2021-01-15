@@ -8,9 +8,9 @@
 I create web and mobile applications using the React and React Native frameworks. My hobby is sea sailing and other water sports, which is why I have always been looking for programming solutions for the automation of sailing tasks.
 
 ### few of my flag projects are below:
--  <img src="https://www.flaticon.com/svg/vstatic/svg/4054/4054462.svg?token=exp=1610720649~hmac=03fe446d73e4ed07fb69c40c3beee17f" width="24px"/> [Sailing navigation Android app](https://play.google.com/store/apps/details?id=com.navdata) 
-- <img src="https://www.flaticon.com/svg/vstatic/svg/864/864702.svg?token=exp=1610720801~hmac=6e8295e88715ba6c36f341e95aa417ab" width="24px"/> [Online logbook](https://github.com/JakubOlejnik1155/OnlineLogbook)
-- <img src="https://www.flaticon.com/svg/vstatic/svg/3050/3050874.svg?token=exp=1610720906~hmac=bfb972bdffeb7dff1ed6ea14e76e0da2" width="24px"/> [wind converter PWA](https://github.com/JakubOlejnik1155/wind-converter)
+- ⚓ [Sailing navigation Android app](https://play.google.com/store/apps/details?id=com.navdata) 
+- 📙 [Online logbook](https://github.com/JakubOlejnik1155/OnlineLogbook)
+- 🌬️ [wind converter PWA](https://github.com/JakubOlejnik1155/wind-converter)
 
 
 
