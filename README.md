@@ -36,4 +36,6 @@ I create web and mobile applications using the React and React Native frameworks
 ## Connect with me:
 
 <img align="left"  alt="email" width="22px" src="https://simpleicons.org/icons/gmail.svg" /> jakub.k.olejnik@gmail.com
+</br>
+</br>
 <img align="left" alt="website" width="22px" src="https://simpleicons.org/icons/googlechrome.svg" /> https://www.jakubolejnik.pl
