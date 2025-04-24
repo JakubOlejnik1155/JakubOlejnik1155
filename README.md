@@ -4,8 +4,8 @@
 [![Website](https://img.shields.io/badge/my%20google%20play-up-brightgreen)](https://play.google.com/store/apps/developer?id=Jakub+Olejnik)
 
 
-## I'm a Junior React web and mobile developer !!!
-I create web and mobile applications using the React and React Native frameworks. My hobby is sea sailing and other water sports, which is why I have always been looking for programming solutions for the automation of sailing tasks.
+## I'm a React/Flutter web/mobile developer !!!
+I create web and mobile applications using the React and Flutter frameworks. My hobby is sea sailing and other water sports, which is why I have always been looking for programming solutions for the automation of sailing tasks.
 
 ### few of my flag projects are below:
 - ⚓ [Sailing navigation Android app](https://play.google.com/store/apps/details?id=com.navdata) 
